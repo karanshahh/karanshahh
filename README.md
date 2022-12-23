@@ -4,7 +4,7 @@
 - 🎓 I will graduate from Tech with a B.S. degree in Mathematics and Computer Science in May 2024.
 - 💞️ I’m looking to collaborate on any kinds of projects which would in some way relate to the areas given above. 
 - 👨‍💻 I'm seeking Software Engineering internships for Summer 2023.
-- 📫 How to reach me: https://www.linkedin.com/in/karanrs12, karanshah.cs@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/karanshahh, karanshah.cs@gmail.com
 
 <!---
 karanshahh/karanshahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
