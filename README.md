@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on any kinds of projects which would in some way relate to the areas given above. 
 - 👨‍💻 I'm seeking internships in the field of Computer Science, preferably Software Engineering, for Summer 2023.
 - 📫 How to reach me: https://www.linkedin.com/in/karanshahh, karanshah.cs@gmail.com
+- Please reach out to me via email to access the private repositories for my major projects!
 
 <!---
 karanshahh/karanshahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
