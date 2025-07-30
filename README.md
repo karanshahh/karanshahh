@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @karanshahh (Karan Shah)
-- 👀 I’m interested in learning more about broad topics such as AI, Data Science, Cyber Security, Machine Learning, and so on. 
-- 🌱 I’m currently an undergraduate student at Virginia Tech, double majoring in Computer Science & Mathematics.
-- 🎓 I will graduate from Tech with a B.S. degree in Mathematics and Computer Science in May 2024.
-- 💞️ I’m looking to collaborate on any kinds of projects which would in some way relate to the areas given above. 
-- 👨‍💻 I'm seeking internships in the field of Computer Science, preferably Software Engineering, for Summer 2023.
-- 📫 How to reach me: https://www.linkedin.com/in/karanshahh, karanshah.cs@gmail.com
-- Please reach out to me via email to access the private repositories for my major projects!
+# 👋 Hi, I’m Karan Shah (@karanshahh)
 
-<!---
-karanshahh/karanshahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about exploring a wide range of topics including **Artificial Intelligence, Data Science, Machine Learning, Cyber Security, and Quantitative Finance**.  
+- 🌱 I’m currently focused on applying AI and data-driven solutions to real-world problems, with ongoing projects in **database migration automation, agentic AI systems, and quantitative modeling**.  
+- 🎓 I graduated from **Virginia Tech** in May 2024 with a **B.S. in Computer Science and Mathematics**.  
+- 💼 I’m open to collaborating on impactful projects in **AI, Software Engineering, Data Science, and Finance-related applications**.  
+- 🚀 My recent work includes:
+  - Building **agentic AI solutions** for database migrations (Hive, Snowflake, Oracle → BigQuery)  
+  - Developing a **poker simulation and strategy app** using Python  
+  - Designing scalable solutions for **cloud-based data automation and exploratory data science**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karanshahh) | ✉️ karanshah.cs@gmail.com  
+- 🔒 Please reach out via email if you’d like access to my private repositories showcasing major projects.  
+
+---
+
+⚡ *Always excited to learn, build, and collaborate on cutting-edge ideas!*  
